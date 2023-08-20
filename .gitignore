@@ -1,0 +1,23 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.idea
+Desktop.ini
+
+# git
+.gitconfig
+
+# editor
+.editorconfig
+
+# dist
+#dist
+
+# vscode
+.vscode
+
+*.iml
+# log
+*.log

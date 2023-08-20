@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "JetBrainsMono-Bold";
+    src: url("../font/JetBrains-Mono/JetBrainsMono-Bold-7.ttf");
+}
+
+@font-face {
+    font-family: "JetBrainsMono-Italic";
+    src: url("../font/JetBrains-Mono/JetBrainsMono-Italic-5.ttf");
+}
+
+@font-face {
+    font-family: "JetBrainsMono-Bold-Italic";
+    src: url("../font/JetBrains-Mono/JetBrainsMono-Bold-Italic-8.ttf");
+}
+
+@font-face {
+    font-family: "JetBrainsMono-ExtraBold";
+    src: url("../font/JetBrains-Mono/JetBrainsMono-ExtraBold-6.ttf");
+}
+
+@font-face {
+    font-family: "JetBrainsMono-Regular";
+    src: url("../font/JetBrains-Mono/JetBrainsMono-Regular-2.ttf");
+}
+
+@font-face {
+    font-family: "JetBrainsMono-Medium";
+    src: url("../font/JetBrains-Mono/JetBrainsMono-Medium-3.ttf");
+}
+
+@font-face {
+    font-family: "JetBrainsMono-Medium-Italic";
+    src: url("../font/JetBrains-Mono/JetBrainsMono-Medium-Italic-4.ttf");
+}
+
+
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-35-Thin";
+    src: url("../font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin.ttf");
+}
+
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-45-Light";
+    src: url("../font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light.ttf");
+}
